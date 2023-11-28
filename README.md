@@ -1,2 +1,2 @@
-# Medical_Drug_Fraud_Prevention
+# Number_Plate_Detection_Using_Machine_Learning
 Number plate detection using machine learning and MATLAB involves developing a system that can automatically locate and recognize license plates in images or video streams. This task is often a part of larger systems like automatic license plate recognition (ALPR) systems used in various applications, including traffic monitoring, law enforcement, and parking management. We have used MATLAB in order to build this project.
